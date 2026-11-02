@@ -1,3 +1,11 @@
-If you like my work Support it
-You are helping me live
+<h2 align="center">👋 Hi there!</h2>
+
+<div align="center">
+
+### ☕ If you like my work, support it!
+
+Your support keeps me going — every coffee counts.
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W2R229YDWC)
+
+</div>
