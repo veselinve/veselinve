@@ -4,7 +4,7 @@
 
 ### ☕ If you like my work, support it!
 
-Your support keeps me going — every coffee counts.
+Your support keeps me alive.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W2R229YDWC)
 
